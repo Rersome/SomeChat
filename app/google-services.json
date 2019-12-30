@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890816769072",
+    "firebase_url": "https://somechat-e2670.firebaseio.com",
+    "project_id": "somechat-e2670",
+    "storage_bucket": "somechat-e2670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890816769072:android:2860747f6a7635fb4651f5",
+        "android_client_info": {
+          "package_name": "com.example.somechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890816769072-4oc6dc20bneons3p4hjhgemt2st9mc7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.somechat",
+            "certificate_hash": "7971aaeee286cd10ae9d6184fe3d0f4a49bd1e8a"
+          }
+        },
+        {
+          "client_id": "890816769072-7umrklkep0p21g88mgac2fss49v6ksif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8WS_1NfIhmGRit-QZoTnfqCN-8-fn9no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890816769072-7umrklkep0p21g88mgac2fss49v6ksif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
